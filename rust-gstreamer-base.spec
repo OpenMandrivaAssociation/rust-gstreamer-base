@@ -5,8 +5,8 @@
 %global crate gstreamer-base
 
 Name:           rust-%{crate}
-Version:        0.15.0
-Release:        2%{?dist}
+Version:        0.25.3
+Release:        1%{?dist}
 Summary:        Rust bindings for GStreamer Base library
 
 # Upstream license specification: MIT/Apache-2.0
